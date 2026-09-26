@@ -1,0 +1,27 @@
+# Great Sage - build/runtime Python dependencies
+#
+# The released Windows application is packaged as a single EXE.
+# GPU selection is done at runtime: NVIDIA/CUDA when available, otherwise
+# the voice/STT engines fall back to CPU. No GPU model is hard-coded here.
+#
+# For a developer environment, install a current PyTorch build appropriate
+# for the build machine before building. The EXE contains its dependencies.
+
+requests>=2.31,<3
+websockets>=12,<16
+pywebview>=6.2,<7
+sounddevice>=0.4.6
+soundfile>=0.12
+numpy>=1.24
+# PyTorch is bundled into the EXE. Install the current platform wheel; the
+# application uses CUDA automatically when the installed build exposes it,
+# otherwise it runs on CPU.
+torch
+torchaudio
+f5-tts>=1.0
+pedalboard>=0.9
+Pillow>=10.0
+faster-whisper>=1.0
+
+# Build tool (developer machine only)
+pyinstaller>=6.0

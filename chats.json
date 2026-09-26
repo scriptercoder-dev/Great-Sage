@@ -1,0 +1,113 @@
+{
+ "version": 1,
+ "chats": [
+  {
+   "id": 1790418898624,
+   "title": "Return After Going",
+   "created": 1790418898624,
+   "updated": 1790419096749,
+   "summary": "",
+   "titled": true,
+   "renamed": false,
+   "messages": [
+    {
+     "role": "user",
+     "text": "So do you come off you go"
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. Yes, I come back after I go."
+    },
+    {
+     "role": "user",
+     "text": "C'est un lit."
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. It is a bed."
+    },
+    {
+     "role": "user",
+     "text": "ça fait que nous, en plus, on..."
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. It means that we, in addition, we…"
+    },
+    {
+     "role": "user",
+     "text": "C'est ça ?"
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. Yes."
+    },
+    {
+     "role": "user",
+     "text": "parle francais stp"
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. Oui."
+    },
+    {
+     "role": "user",
+     "text": "ok sa fait combien 1+1"
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. 2."
+    },
+    {
+     "role": "user",
+     "text": "Comment on vole"
+    },
+    {
+     "role": "assistant",
+     "text": "A vole is a small, grassy‑habitat rodent, well known for rapid reproduction, feeding mainly on roots and grasses, and acting as prey for numerous predators."
+    },
+    {
+     "role": "user",
+     "text": "tu as asser a internet?"
+    }
+   ]
+  },
+  {
+   "id": 1790419387333,
+   "title": "New chat",
+   "created": 1790419387333,
+   "updated": 1790419387333,
+   "summary": "",
+   "titled": false,
+   "renamed": false,
+   "messages": []
+  },
+  {
+   "id": 1790419593914,
+   "title": "Salut Comment Tu Vas",
+   "created": 1790419593914,
+   "updated": 1790419696647,
+   "summary": "",
+   "titled": true,
+   "renamed": false,
+   "messages": [
+    {
+     "role": "user",
+     "text": "Salut, comment tu vas ?"
+    },
+    {
+     "role": "assistant",
+     "text": "Good morning, Master. I am ready to assist."
+    },
+    {
+     "role": "user",
+     "text": "Ça fait combien ? 1 plus 1."
+    },
+    {
+     "role": "assistant",
+     "text": "Answer. 2."
+    }
+   ]
+  }
+ ]
+}

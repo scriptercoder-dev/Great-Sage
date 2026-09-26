@@ -1,0 +1,10 @@
+{
+ "chat_provider": "local",
+ "chat_model": "gurubot/gpt-oss-derestricted:20b",
+ "tts_provider": "f5",
+ "keys": {},
+ "allow_web": true,
+ "allow_desktop": true,
+ "mode": "companion",
+ "auto_gaming": true
+}
